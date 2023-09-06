@@ -2,3 +2,5 @@
 
  Index.html on FIRST page is broken - need to debug
  Yeah, im debugging. Ill be able to fix it when I get home since its better than this crappy chromebook
+
+ I fixed some of the first page, the code was poorly written with a bunch of nonsense. I am still working on it but I have restored basic page connectivity.
