@@ -13,3 +13,4 @@ I nuked the page on accident then I was uploading new code to the FIRST page, I 
 - Take and add pictures of new team leads
 - delete buisness on about page and combine with Branding to make marketing
 -bug on homepage  
+- bug on sponsors page - school
